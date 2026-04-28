@@ -1,1 +1,1 @@
-# mock2
+print('hello')
